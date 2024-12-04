@@ -6,9 +6,10 @@ This project is a small software suite designed to solve the first set of [crypt
 
 ## Installation Instructions
 
-1. Clone the project repository, either by running `git clone https://github.com/warped303/CSC-414-Final-Project.git` if you have Git installed or by clicking on Code -> Download ZIP on the main project page.
-2. Make sure you have Python 3 and Pip installed, then run `pip install -r requirements.txt` in your terminal / command prompt to install the required Python modules.
-3. To run the program, run `src/main/main.py` in Python 3
+1. Clone the project repository, either by running `git clone https://github.com/warped303/CSC-414-Final-Project.git`  in your terminal / command line if you have Git installed or by clicking on Code -> Download ZIP on the main project page.
+2. Make sure you have Python 3 and Pip installed, then run `pip install -r [Path to requirements.txt]` in your terminal / command prompt to install the required Python modules, replacing `[Path to requirements.txt]` with the path to the `requirements.txt` file from the current working directory.
+   - If you get an error along the lines of Pip not being installed, try replacing `pip` with `python -m pip`, `python3 -m pip`, or `pip3`.
+4. To run the program, run `src/main/main.py` in Python 3.
 
 ## Credits
 
