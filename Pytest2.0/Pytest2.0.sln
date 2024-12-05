@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34928.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "CryptoChallengesTesting", "CryptoChallengesTesting.pyproj", "{6A3A1F65-06E7-4B22-BFD6-86AC3D1B3F72}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6A3A1F65-06E7-4B22-BFD6-86AC3D1B3F72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A3A1F65-06E7-4B22-BFD6-86AC3D1B3F72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47D63098-9B73-4F46-9BFE-3FB7E6380236}
+	EndGlobalSection
+EndGlobal
